@@ -1,3 +1,6 @@
 {"categories":
-  {"Movies dubbed (Hebrew) - סרטים מדובבים (עברית)": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "info": "Info Test", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/icon.png?raw=true"}},
-  {"Movies dubbed (Hebrew) - סרטים מדובבים (עברית)": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "info": "Info Test", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/icon.png?raw=true"}}}
+  {
+    "Movies dubbed (Hebrew) - סרטים מדובבים (עברית)": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "info": "Info Test", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/icon.png?raw=true"},
+    "Movies dubbed (Hebrew) - סרטים מדובבים (עברית)": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "info": "Info Test", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/icon.png?raw=true"}
+  }
+}
