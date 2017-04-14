@@ -1,6 +1,6 @@
 {"categories":
   {
-    "סרטים עם תרגום מובנה": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "info": "Info Test", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/icon.png?raw=true"},
-    "TEST": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "info": "Info Test", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/icon.png?raw=true"}
+    "סרטים מדובבים": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/kids.thumb.png"},
+    "TEST": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/kids.thumb.png?raw=true"}
   }
 }
