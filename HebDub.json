@@ -1,4 +1,4 @@
 {"movies":{
-"Big Buck Bunny": {"thumb": "https://image.tmdb.org/t/p/original/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg", "video_id": "VcrEhiFV", "fanart": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg", "trailer": "PMivT7MJ41M", "genre": "קומדיה", "plot": "plot working", "duration": "3600"},
-"Transformers 4": {"thumb": "https://image.tmdb.org/t/p/original/8DIgGS68Kv9AEmAM0upOjHVuQL4.jpg", "video_id": "2fYq2Iyz", "fanart": "https://image.tmdb.org/t/p/original/cHy7nSitAVgvZ7qfCK4JO47t3oZ.jpg"},
-"Screen Color Test": {"thumb": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Full_hd_logo.svg", "video_id": "zmwX7vst", "fanart": "http://cdn.wallpapersafari.com/65/73/1gl6Dp.jpg"}}}
+"Big Buck Bunny": {"thumb": "https://image.tmdb.org/t/p/original/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg", "video_id": "M0wtPnMN", "fanart": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg", "rating": "7.9"},
+"Transformers 4": {"thumb": "https://image.tmdb.org/t/p/original/8DIgGS68Kv9AEmAM0upOjHVuQL4.jpg", "video_id": "2fYq2Iyz", "fanart": "https://image.tmdb.org/t/p/original/cHy7nSitAVgvZ7qfCK4JO47t3oZ.jpg"}
+}}
