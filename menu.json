@@ -1,6 +1,6 @@
 {"categories":
   {
-    "סרטים מדובבים": {"url": "http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/kids.thumb.png"},
+    "סרטים מדובבים": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/15517160600_8f5cdf7816_o.png?raw=true"},
     "TEST": {"url": "https://raw.githubusercontent.com/SomeOneDudOrg/SomeOneDudOrgKodiRepo/master/HebDub.json", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/blob/master/resources/kids.thumb.png?raw=true"}
   }
 }
